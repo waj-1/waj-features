@@ -27,6 +27,19 @@ Try it free at [login.waj.ai](https://login.waj.ai) · Full documentation at [wa
 | [<img src="06-payments-and-invoices/poster.jpg" width="360" alt="Payments and invoices">](06-payments-and-invoices/) | **[Payments and invoices](06-payments-and-invoices/)**<br>Every payment, on record<br><br>Every sale, payment and refund is on record and easy to find.<br><br>▶ 30 s video |
 | [<img src="07-cash-and-expenses/poster.jpg" width="360" alt="Cash and expenses">](07-cash-and-expenses/) | **[Cash and expenses](07-cash-and-expenses/)**<br>Every dirham, accounted for<br><br>Your cash drawer and your expenses live in one place and stay in sync.<br><br>▶ 31 s video |
 
+## Know your numbers
+
+| | |
+|---|---|
+| [<img src="08-reports/poster.jpg" width="360" alt="Reports">](08-reports/) | **[Reports](08-reports/)**<br>Know your numbers, every day<br><br>Reports is WAJ's analytics hub.<br><br>▶ 32 s video |
+
+## Team and stock
+
+| | |
+|---|---|
+| [<img src="09-staff-and-payroll/poster.jpg" width="360" alt="Staff">](09-staff-and-payroll/) | **[Staff](09-staff-and-payroll/)**<br>Shifts, payroll and commissions in one place<br><br>Staff is your team roster.<br><br>▶ 31 s video |
+| [<img src="10-inventory/poster.jpg" width="360" alt="Inventory">](10-inventory/) | **[Inventory](10-inventory/)**<br>Your stock, always in view<br><br>Inventory tracks the products you buy, stock, sell and use.<br><br>▶ 31 s video |
+
 ## Grow
 
 | | |

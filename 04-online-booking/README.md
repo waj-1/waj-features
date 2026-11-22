@@ -2,7 +2,9 @@
 
 [← All features](../)
 
-▶ **Video:** [waj-online-booking.mp4](waj-online-booking.mp4) (33 s, 1920×1080)
+[![Watch the video](preview.webp)](waj-online-booking.mp4)
+
+▶ **Full video with sound:** [waj-online-booking.mp4](waj-online-booking.mp4) (33 s, 1920×1080)
 
 Every WAJ business gets its own booking website. Share the link from your Online Profile, and clients can browse your services, choose a specialist and pick a free time, at any hour. Their booking lands in your calendar.
 

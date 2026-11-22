@@ -2,7 +2,9 @@
 
 [← All features](../)
 
-▶ **Video:** [waj-onboarding.mp4](waj-onboarding.mp4) (30 s, 1920×1080)
+[![Watch the video](preview.webp)](waj-onboarding.mp4)
+
+▶ **Full video with sound:** [waj-onboarding.mp4](waj-onboarding.mp4) (30 s, 1920×1080)
 
 Answer six quick questions and WAJ builds your system while you watch. Your real app fills in on the left as you answer: your name, your menu, your colours and your booking website. When you save, it's ready to use, with demo data so you can explore straight away.
 

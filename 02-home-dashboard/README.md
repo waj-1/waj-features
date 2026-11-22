@@ -2,7 +2,9 @@
 
 [← All features](../)
 
-▶ **Video:** [waj-home-dashboard.mp4](waj-home-dashboard.mp4) (26 s, 1920×1080)
+[![Watch the video](preview.webp)](waj-home-dashboard.mp4)
+
+▶ **Full video with sound:** [waj-home-dashboard.mp4](waj-home-dashboard.mp4) (26 s, 1920×1080)
 
 Home is where your day starts. Today's sales, costs, balance and completed bookings sit at the top, with a revenue chart, your next bookings and today's staff shifts underneath. Tap any number to open the report behind it.
 

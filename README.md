@@ -23,6 +23,8 @@ Try it free at [login.waj.ai](https://login.waj.ai) · Full documentation at [wa
 
 | | |
 |---|---|
+| [<img src="05-checkout-and-pos/poster.jpg" width="360" alt="Checkout and retail POS">](05-checkout-and-pos/) | **[Checkout and retail POS](05-checkout-and-pos/)**<br>Checkout in seconds<br><br>Turn a booking or a walk-in into a paid sale in a few taps.<br><br>▶ 41 s video |
+| [<img src="06-payments-and-invoices/poster.jpg" width="360" alt="Payments and invoices">](06-payments-and-invoices/) | **[Payments and invoices](06-payments-and-invoices/)**<br>Every payment, on record<br><br>Every sale, payment and refund is on record and easy to find.<br><br>▶ 30 s video |
 | [<img src="07-cash-and-expenses/poster.jpg" width="360" alt="Cash and expenses">](07-cash-and-expenses/) | **[Cash and expenses](07-cash-and-expenses/)**<br>Every dirham, accounted for<br><br>Your cash drawer and your expenses live in one place and stay in sync.<br><br>▶ 31 s video |
 
 ## Grow

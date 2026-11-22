@@ -2,7 +2,9 @@
 
 [← All features](../)
 
-▶ **Video:** [waj-clients.mp4](waj-clients.mp4) (38 s, 1920×1080)
+[![Watch the video](preview.webp)](waj-clients.mp4)
+
+▶ **Full video with sound:** [waj-clients.mp4](waj-clients.mp4) (38 s, 1920×1080)
 
 Every client has one profile in WAJ: their visits, spend, bookings, sales, forms and notes. Filter your list in seconds, save any filter as an audience for campaigns, and let WAJ ask happy clients for Google reviews.
 

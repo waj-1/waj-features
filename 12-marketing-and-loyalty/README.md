@@ -2,7 +2,9 @@
 
 [← All features](../)
 
-▶ **Video:** [waj-marketing-loyalty.mp4](waj-marketing-loyalty.mp4) (35 s, 1920×1080)
+[![Watch the video](preview.webp)](waj-marketing-loyalty.mp4)
+
+▶ **Full video with sound:** [waj-marketing-loyalty.mp4](waj-marketing-loyalty.mp4) (35 s, 1920×1080)
 
 Everything you need to win clients back lives in one Marketing hub: campaigns, automated messages, workflows, loyalty cards, reward points, referrals, memberships, packages and gift cards. Set it up once and WAJ keeps working for you.
 

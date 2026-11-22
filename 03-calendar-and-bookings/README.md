@@ -2,7 +2,9 @@
 
 [← All features](../)
 
-▶ **Video:** [waj-calendar-bookings.mp4](waj-calendar-bookings.mp4) (33 s, 1920×1080)
+[![Watch the video](preview.webp)](waj-calendar-bookings.mp4)
+
+▶ **Full video with sound:** [waj-calendar-bookings.mp4](waj-calendar-bookings.mp4) (33 s, 1920×1080)
 
 The calendar shows your whole team side by side, one column per team member, so a packed day is easy to read. Tap a free slot to book: pick the client and the service, and WAJ fills in the team member, time and total. It flags slots outside someone's working hours, and one tap switches the day to a list.
 

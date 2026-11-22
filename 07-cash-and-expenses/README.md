@@ -2,7 +2,9 @@
 
 [← All features](../)
 
-▶ **Video:** [waj-cash-and-expenses.mp4](waj-cash-and-expenses.mp4) (31 s, 1920×1080)
+[![Watch the video](preview.webp)](waj-cash-and-expenses.mp4)
+
+▶ **Full video with sound:** [waj-cash-and-expenses.mp4](waj-cash-and-expenses.mp4) (31 s, 1920×1080)
 
 Your cash drawer and your expenses live in one place and stay in sync. Add or take out cash in one tap, see every movement in the cash register with a running balance, and log expenses by category. Cash expenses come straight out of the drawer balance on their own.
 

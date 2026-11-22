@@ -2,7 +2,9 @@
 
 [← All features](../)
 
-▶ **Video:** [waj-ai-assistant.mp4](waj-ai-assistant.mp4) (32 s, 1920×1080)
+[![Watch the video](preview.webp)](waj-ai-assistant.mp4)
+
+▶ **Full video with sound:** [waj-ai-assistant.mp4](waj-ai-assistant.mp4) (32 s, 1920×1080)
 
 The AI Assistant is built into WAJ. Ask a question in plain words, like "How did we do last month?", and it looks up your real business data and answers with numbers and tables in seconds. It can also walk you through how to use WAJ, and the Proactive AI agent sends you weekly alerts about what changed.
 

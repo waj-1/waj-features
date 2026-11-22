@@ -2,7 +2,7 @@
 
 [← All features](../)
 
-[![Watch the video](preview.webp)](waj-staff-payroll.mp4)
+[![Watch the video](waj-staff-payroll.webp)](waj-staff-payroll.mp4)
 
 ▶ **Full video with sound:** [waj-staff-payroll.mp4](waj-staff-payroll.mp4) (31 s, 1920×1080)
 

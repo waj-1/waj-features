@@ -2,7 +2,7 @@
 
 [← All features](../)
 
-[![Watch the video](preview.webp)](waj-ai-assistant.mp4)
+[![Watch the video](waj-ai-assistant.webp)](waj-ai-assistant.mp4)
 
 ▶ **Full video with sound:** [waj-ai-assistant.mp4](waj-ai-assistant.mp4) (32 s, 1920×1080)
 

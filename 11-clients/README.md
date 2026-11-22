@@ -2,7 +2,7 @@
 
 [← All features](../)
 
-[![Watch the video](preview.webp)](waj-clients.mp4)
+[![Watch the video](waj-clients.webp)](waj-clients.mp4)
 
 ▶ **Full video with sound:** [waj-clients.mp4](waj-clients.mp4) (38 s, 1920×1080)
 

@@ -2,7 +2,7 @@
 
 [← All features](../)
 
-[![Watch the video](preview.webp)](waj-payments-invoices.mp4)
+[![Watch the video](waj-payments-invoices.webp)](waj-payments-invoices.mp4)
 
 ▶ **Full video with sound:** [waj-payments-invoices.mp4](waj-payments-invoices.mp4) (30 s, 1920×1080)
 

@@ -2,7 +2,7 @@
 
 [← All features](../)
 
-[![Watch the video](preview.webp)](waj-onboarding.mp4)
+[![Watch the video](waj-onboarding.webp)](waj-onboarding.mp4)
 
 ▶ **Full video with sound:** [waj-onboarding.mp4](waj-onboarding.mp4) (30 s, 1920×1080)
 

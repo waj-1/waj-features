@@ -2,7 +2,7 @@
 
 [← All features](../)
 
-[![Watch the video](preview.webp)](waj-reports.mp4)
+[![Watch the video](waj-reports.webp)](waj-reports.mp4)
 
 ▶ **Full video with sound:** [waj-reports.mp4](waj-reports.mp4) (32 s, 1920×1080)
 

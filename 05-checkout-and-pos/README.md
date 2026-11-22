@@ -2,7 +2,7 @@
 
 [← All features](../)
 
-[![Watch the video](preview.webp)](waj-checkout-pos.mp4)
+[![Watch the video](waj-checkout-pos.webp)](waj-checkout-pos.mp4)
 
 ▶ **Full video with sound:** [waj-checkout-pos.mp4](waj-checkout-pos.mp4) (41 s, 1920×1080)
 

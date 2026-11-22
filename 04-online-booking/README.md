@@ -2,7 +2,7 @@
 
 [← All features](../)
 
-[![Watch the video](preview.webp)](waj-online-booking.mp4)
+[![Watch the video](waj-online-booking.webp)](waj-online-booking.mp4)
 
 ▶ **Full video with sound:** [waj-online-booking.mp4](waj-online-booking.mp4) (33 s, 1920×1080)
 

@@ -2,7 +2,7 @@
 
 [← All features](../)
 
-[![Watch the video](preview.webp)](waj-home-dashboard.mp4)
+[![Watch the video](waj-home-dashboard.webp)](waj-home-dashboard.mp4)
 
 ▶ **Full video with sound:** [waj-home-dashboard.mp4](waj-home-dashboard.mp4) (26 s, 1920×1080)
 

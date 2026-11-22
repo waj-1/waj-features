@@ -2,7 +2,7 @@
 
 [← All features](../)
 
-[![Watch the video](preview.webp)](waj-calendar-bookings.mp4)
+[![Watch the video](waj-calendar-bookings.webp)](waj-calendar-bookings.mp4)
 
 ▶ **Full video with sound:** [waj-calendar-bookings.mp4](waj-calendar-bookings.mp4) (33 s, 1920×1080)
 

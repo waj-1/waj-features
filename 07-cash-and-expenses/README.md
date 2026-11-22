@@ -2,7 +2,7 @@
 
 [← All features](../)
 
-[![Watch the video](preview.webp)](waj-cash-and-expenses.mp4)
+[![Watch the video](waj-cash-and-expenses.webp)](waj-cash-and-expenses.mp4)
 
 ▶ **Full video with sound:** [waj-cash-and-expenses.mp4](waj-cash-and-expenses.mp4) (31 s, 1920×1080)
 

@@ -2,7 +2,7 @@
 
 [← All features](../)
 
-[![Watch the video](preview.webp)](waj-marketing-loyalty.mp4)
+[![Watch the video](waj-marketing-loyalty.webp)](waj-marketing-loyalty.mp4)
 
 ▶ **Full video with sound:** [waj-marketing-loyalty.mp4](waj-marketing-loyalty.mp4) (35 s, 1920×1080)
 

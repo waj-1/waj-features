@@ -2,7 +2,7 @@
 
 [← All features](../)
 
-[![Watch the video](preview.webp)](waj-inventory.mp4)
+[![Watch the video](waj-inventory.webp)](waj-inventory.mp4)
 
 ▶ **Full video with sound:** [waj-inventory.mp4](waj-inventory.mp4) (31 s, 1920×1080)
 
